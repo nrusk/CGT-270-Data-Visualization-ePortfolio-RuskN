@@ -1,0 +1,4 @@
+Attached you will find frequency data for visualizing the opioid abuse that is occurring in Indiana. 
+In addition, you will find demographic and dosage data for use in identifying up to 10 potential contributing factors to the abuse. 
+As part of the challenge, special weighting will be given to those participating companies/universities that find the most unique contributing factors. 
+Other data sets can be used if they are disclosed as part of your solution at the Conference.
